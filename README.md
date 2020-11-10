@@ -30,6 +30,8 @@
 };
 ```
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=wesleySalesberry" alt="visitor badge"/>
+![](https://visitor-badge.glitch.me/badge?page_id=wesleySalesberry.wesleySalesberry)
  ⭐️ From [wesleySalesberry](https://github.com/wesleySalesberry)
 
 
