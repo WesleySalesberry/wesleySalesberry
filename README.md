@@ -1,15 +1,30 @@
 ### Hi there 👋
 
+[![Linkedin: wesleySalesberry](https://img.shields.io/badge/-wesleySalesberry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessalesberry/)](https://www.linkedin.com/in/wessalesberry/)
 
-title: YOUR_USERNAME // wesleySalesberry
-date: TODAY_DATE // 2020-11-10
-spoiler: CATEGORY_YOUR_TEMPLATE Readme Template // Code Styled Readme Template
-categories: ["CATEGORY_YOUR_TEMPLATE", "all-profile"] // ["code-styled", "all-profile"]
-githubUsername: 'YOUR_USERNAME' //wesleySalesberry
+[![GitHub followers](https://img.shields.io/github/followers/weleySalesberry?label=Follow&style=social)]
 
-[![Linkedin: wesley_salesberry](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessalesberry/)](https://www.linkedin.com/in/wessalesberry/)
-
-![GitHub followers](https://img.shields.io/github/followers/weleySalesberry?label=Follow&style=social)
+```javascript
+    code: ["Javascript", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue"],
+            css: ["materialize", "vuetify", "bootstrap", "Styled Components"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django"]
+        },
+        devOps: ["AWS", "Docker🐳", "Firebase"],
+        databases: ["mongo", "postgres", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentProject: "I am developing a custom built realtor app using django and javascript",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
  ⭐️ From [wesleySalesberry](https://github.com/wesleySalesberry)
 
