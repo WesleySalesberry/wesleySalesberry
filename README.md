@@ -3,7 +3,7 @@
 <p><em>Software Enginner Student at <a href="http://https://www.kenzie.academy/">Kenzie Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: wesleySalesberry](https://img.shields.io/badge/-wesleySalesberry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessalesberry/)](https://www.linkedin.com/in/wessalesberry/)
+[![Linkedin: wesleySalesberry](https://img.shields.io/badge/-wesleySalesberry-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessalesberry/)](https://www.linkedin.com/in/wessalesberry/)
 ![GitHub followers](https://img.shields.io/github/followers/wesleySalesberry?label=Follow&style=social)
 
 ```javascript
