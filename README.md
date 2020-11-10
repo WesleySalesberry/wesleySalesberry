@@ -2,7 +2,7 @@
 
 [![Linkedin: wesleySalesberry](https://img.shields.io/badge/-wesleySalesberry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wessalesberry/)](https://www.linkedin.com/in/wessalesberry/)
 
-[![GitHub followers](https://img.shields.io/github/followers/weleySalesberry?label=Follow&style=social)]
+![GitHub followers](https://img.shields.io/github/followers/wesleySalesberry?label=Follow&style=social)
 
 ```javascript
     code: ["Javascript", "Python", "Java"],
