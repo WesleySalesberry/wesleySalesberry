@@ -8,11 +8,11 @@
 
 ```javascript
     const wesley = {
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
             js: ["React", "Vue"],
-            css: ["Materialize", "Vuetify", "Bootstrap", "Styled Components"]
+            css: ["Materialize", "Bootstrap", "Styled Components"]
         },
         backEnd: {
             js: ["Node", "Express"],
@@ -20,7 +20,7 @@
         },
         devOps: ["AWS", "Docker🐳", "Firebase"],
         databases: ["mongo", "postgres", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "open-cv"]
 
     },
     architecture: ["Progressive web applications", "Single page applications"],
